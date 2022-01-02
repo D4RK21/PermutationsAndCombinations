@@ -1,0 +1,16 @@
+C:\Users\админ\Desktop\NURE\CDM\PermutationsAndCombinations\bin\Debug\net5.0\PermutationsAndCombinations.exe
+C:\Users\админ\Desktop\NURE\CDM\PermutationsAndCombinations\bin\Debug\net5.0\PermutationsAndCombinations.deps.json
+C:\Users\админ\Desktop\NURE\CDM\PermutationsAndCombinations\bin\Debug\net5.0\PermutationsAndCombinations.runtimeconfig.json
+C:\Users\админ\Desktop\NURE\CDM\PermutationsAndCombinations\bin\Debug\net5.0\PermutationsAndCombinations.runtimeconfig.dev.json
+C:\Users\админ\Desktop\NURE\CDM\PermutationsAndCombinations\bin\Debug\net5.0\PermutationsAndCombinations.dll
+C:\Users\админ\Desktop\NURE\CDM\PermutationsAndCombinations\bin\Debug\net5.0\ref\PermutationsAndCombinations.dll
+C:\Users\админ\Desktop\NURE\CDM\PermutationsAndCombinations\bin\Debug\net5.0\PermutationsAndCombinations.pdb
+C:\Users\админ\Desktop\NURE\CDM\PermutationsAndCombinations\obj\Debug\net5.0\PermutationsAndCombinations.csproj.AssemblyReference.cache
+C:\Users\админ\Desktop\NURE\CDM\PermutationsAndCombinations\obj\Debug\net5.0\PermutationsAndCombinations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\админ\Desktop\NURE\CDM\PermutationsAndCombinations\obj\Debug\net5.0\PermutationsAndCombinations.AssemblyInfoInputs.cache
+C:\Users\админ\Desktop\NURE\CDM\PermutationsAndCombinations\obj\Debug\net5.0\PermutationsAndCombinations.AssemblyInfo.cs
+C:\Users\админ\Desktop\NURE\CDM\PermutationsAndCombinations\obj\Debug\net5.0\PermutationsAndCombinations.csproj.CoreCompileInputs.cache
+C:\Users\админ\Desktop\NURE\CDM\PermutationsAndCombinations\obj\Debug\net5.0\PermutationsAndCombinations.dll
+C:\Users\админ\Desktop\NURE\CDM\PermutationsAndCombinations\obj\Debug\net5.0\ref\PermutationsAndCombinations.dll
+C:\Users\админ\Desktop\NURE\CDM\PermutationsAndCombinations\obj\Debug\net5.0\PermutationsAndCombinations.pdb
+C:\Users\админ\Desktop\NURE\CDM\PermutationsAndCombinations\obj\Debug\net5.0\PermutationsAndCombinations.genruntimeconfig.cache
