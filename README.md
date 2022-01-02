@@ -10,8 +10,8 @@ It is also Calculates the **elapsed time**.
 
 ## 📸 Example
 
-![image](https://user-images.githubusercontent.com/81447820/147890913-298757ef-63c9-42cc-b30f-651fe58bcd66.png)
-![image](https://user-images.githubusercontent.com/81447820/147890915-349acf29-7569-491a-aa0c-05cb26abd175.png)
+![1](https://user-images.githubusercontent.com/81447820/147891043-bf360aab-d6a8-4976-b9b5-8e82d786f4a4.png)
+![2](https://user-images.githubusercontent.com/81447820/147891046-c1b6e288-7608-4a95-b435-e13ef4fd3e48.png)
 
 
 ## 👨‍💻 Author
